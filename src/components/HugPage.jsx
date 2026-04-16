@@ -96,7 +96,7 @@ export default function HugPage({ setCurrentPage }) {
           transition={{ duration: 0.8, delay: 0.8 }}
           className="text-2xl text-pink-200 leading-relaxed"
         >
-          I don’t need anything fancy right now…
+          I don’t able to think anything fancy right now…
         </motion.p>
         <motion.p
           initial={{ opacity: 0, y: 15 }}
@@ -104,7 +104,7 @@ export default function HugPage({ setCurrentPage }) {
           transition={{ duration: 0.8, delay: 1.1 }}
           className="text-xl text-purple-200 leading-relaxed"
         >
-          Just your arms around me, that’s all I want.💕
+          Just imagine how brutaly i ignore youe feeling sad for that so much.
         </motion.p>
       </motion.div>
 
